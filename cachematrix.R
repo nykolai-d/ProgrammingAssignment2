@@ -32,7 +32,7 @@ cacheSolve <- function(m, ...) {
       invMatrix
 }
 
-# Testing the functions:
+# Testing the functions (see attached screenshot of RStudio Console to view the functions in action)
 col1 <- c(3,5)
 col2 <- c(4,6)
 matrix_1 <- cbind(col1, col2)
